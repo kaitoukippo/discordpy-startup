@@ -14,7 +14,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def なおき(ctx):
+async def naoki(ctx):
     await ctx.send('まじちんちん')
 
 
