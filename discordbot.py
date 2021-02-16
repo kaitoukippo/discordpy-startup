@@ -3,7 +3,7 @@ import re
 import discord
 
 # BOTのアクセストークン
-TOKEN = 'ODExMTQwNzgxNjExMDI0NDM3.YCt3uA.BZz-nnWfZGpNICq46n3vf0AAhaA'
+TOKEN = ''
 # 画像ファイルを格納しているディレクトリのパス
 FILE_DIR = "image/"
 # 画像ファイルの拡張子
